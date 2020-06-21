@@ -1,6 +1,6 @@
 # Arduino Industrial
 
-Se utiliza un arduino como ISP(Programador) para programar otro arduino cargando el circuito de arranque(bootloder)
+Se utiliza un arduino como ISP para programar otro arduino cargando el circuito de arranque(bootloder)
 
 **Necesita**
 * 1 Microcontrolador 328P-PU
