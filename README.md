@@ -17,6 +17,10 @@ Luego se seleccione de ejemplo y se sube al arduino como isp
 
 <img src="https://github.com/IDiegoUlises/Arduino-Cargar-Bootloder/blob/master/images/Subir-programa-Arduino-Como-ISP-Con.Fondo-Negro.png" />
 
+<img src="https://github.com/IDiegoUlises/Arduino-Cargar-Bootloder/blob/master/images/Programador-Arduino-As-ISP-Con-Fondo-Negro.png" />
+
+<img src="https://github.com/IDiegoUlises/Arduino-Cargar-Bootloder/blob/master/images/Quemar-Bootloder-Con-Fondo-Negro.png" />
+
 
 
 
