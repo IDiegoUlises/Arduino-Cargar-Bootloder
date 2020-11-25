@@ -10,3 +10,5 @@ Se utiliza un arduino como ISP para programar otro arduino cargando el circuito 
 ### Conexion:
 
 <img src="https://github.com/IDiegoUlises/Arduino-Cargar-Bootloder/blob/master/images/Arduino-Como-ISP.jpeg" />
+
+Luego se seleccione de ejemplo y se sube al arduino como isp 
