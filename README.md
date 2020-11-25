@@ -1,6 +1,6 @@
 # Arduino Cargar Bootloder
 
-Se utiliza un arduino como ISP para programar otro arduino cargando el circuito de arranque(bootloder)
+Se utiliza un arduino como ISP para programar el circuito de arranque(bootloder) en un microcontrolador
 
 **Necesita**
 * Microcontrolador 328P-PU
