@@ -12,3 +12,5 @@ Se utiliza un arduino como ISP para programar otro arduino cargando el circuito 
 <img src="https://github.com/IDiegoUlises/Arduino-Cargar-Bootloder/blob/master/images/Arduino-Como-ISP.jpeg" />
 
 Luego se seleccione de ejemplo y se sube al arduino como isp 
+
+Ahora en el ide arduino se selecciona la opcion "programador>Arduino como isp" y luego quemar bootleader
